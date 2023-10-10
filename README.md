@@ -1,4 +1,4 @@
 # ProgrammingBackground
 My programming projects
-1. https://github.com/RatanLucaRazvan/GUIMovieApp.git
-2. https://github.com/RatanLucaRazvan/GUICourierApp.git
+1. Movies app - https://github.com/RatanLucaRazvan/GUIMovieApp.git
+2. Courier app - https://github.com/RatanLucaRazvan/GUICourierApp.git
