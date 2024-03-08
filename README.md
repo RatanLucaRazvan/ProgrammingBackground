@@ -7,3 +7,4 @@ My programming projects
 5. Internship App - https://github.com/RatanLucaRazvan/InternshipApp.git
 6. Snowboarder Game - https://github.com/RatanLucaRazvan/SnowboarderGame.git
 7. Delivery Driver Game - https://github.com/RatanLucaRazvan/Delivery-Driver-Game.git
+8. Recipe App - https://github.com/RatanLucaRazvan/RecipeApp
