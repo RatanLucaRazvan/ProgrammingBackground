@@ -10,3 +10,4 @@ My programming projects
 8. Recipe App - https://github.com/RatanLucaRazvan/RecipeApp
 9. Toy Language Interpreter - https://github.com/RatanLucaRazvan/ToyLanguageInterpreter
 10. Hydration App - https://github.com/RatanLucaRazvan/HydrationApp
+11. Bachelor Thesis - https://github.com/RatanLucaRazvan/BachelorThesis
